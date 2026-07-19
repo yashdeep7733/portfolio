@@ -1,0 +1,58 @@
+const certifications = [
+  {
+    id: 'cert-1',
+    title: 'Tata - GenAI Powered Data Analytics Job Simulation',
+    issuer: 'Forage',
+    date: 'June 2026',
+    description: "Completed a hands-on virtual job simulation covering the end-to-end data analytics workflow for financial services. Performed exploratory data analysis to uncover trends and patterns, interpreted datasets to support business decisions, and worked through predictive modeling tasks for customer collections. Developed business reports and recommendations based on analytical findings, while incorporating generative AI tools to accelerate analysis, generate insights, and improve communication. The simulation emphasized responsible AI usage, practical business problem solving, and translating technical analysis into actionable strategies for stakeholders.",
+    image: '/certifications/1783418880474.jpeg',
+    credentialUrl: 'https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_6a1474e71d38623a9989b27e_1780898730154_completion_certificate.pdf',
+  },
+  {
+    id: 'cert-2',
+    title: 'Python Developer Certification',
+    issuer: 'FreeCodeCamp',
+    date: 'January 2026',
+    description: "Earned the freeCodeCamp Python Developer Certification through hands-on programming projects that reinforced core software development principles. Developed proficiency in Python syntax, data structures, functions, object-oriented programming, file handling, error handling, and algorithmic problem solving. Built a strong programming foundation that supports further work in machine learning, data science, automation, and backend development.",
+    image: '/certifications/1783418741525.jpeg',
+    credentialUrl: 'https://www.freecodecamp.org/certification/yashdeep7/python-v9',
+  },
+  {
+    id: 'cert-3',
+    title: 'Deloitte - Data Analytics Job Simulation',
+    issuer: 'Forage, Deloitte',
+    date: 'June 2026',
+    description: "Completed Deloitte's Data Analytics Job Simulation through Forage, working on realistic business scenarios involving data analysis and visualization. Used Tableau to create interactive dashboards, transform raw data into meaningful visual insights, and communicate findings to support business decision-making. Analyzed datasets to identify trends, present key performance metrics, and develop data-driven recommendations while strengthening skills in business analytics, data storytelling, and visual communication.",
+    image: '/certifications/1782277314852.jpeg',
+    credentialUrl: 'https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_6a1474e71d38623a9989b27e_1782277079150_completion_certificate.pdf',
+  },
+  {
+    id: 'cert-4',
+    title: 'AI Fluency: Framework & Foundations',
+    issuer: 'Anthropic',
+    date: 'July 2026',
+    description: "Completed Anthropic's AI Fluency: Framework & Foundations certification, gaining a solid understanding of AI fundamentals, large language models, prompt engineering, responsible AI, and practical frameworks for applying AI effectively in real-world problem solving.",
+    image: '/certifications/certificate-wvyuntb557p9-1783959477.jpg',
+    credentialUrl: 'https://verify.skilljar.com/c/wvyuntb557p9',
+  },
+  {
+    id: 'cert-5',
+    title: 'Building with the Claude API',
+    issuer: 'Anthropic',
+    date: 'July 2026',
+    description: "Completed Anthropic's Building with the Claude API certification, exploring how to build AI-powered applications using the Claude API. Worked with prompt engineering, message formatting, structured outputs, tool use, streaming responses, and API integration patterns while learning best practices for creating reliable and scalable AI experiences.",
+    image: '/certifications/1783418613198.jpeg',
+    credentialUrl: 'https://verify.skilljar.com/c/5idseuqqgmdx',
+  },
+  {
+    id: 'cert-6',
+    title: 'Claude code 101',
+    issuer: 'Anthropic',
+    date: 'July 2026',
+    description: "Completed Anthropic's Claude Code 101 certification, gaining practical experience using Claude Code to accelerate software development through code generation, debugging, refactoring, terminal workflows, and AI-assisted programming while applying best practices for modern development.",
+    image: '/certifications/1783418582181.jpeg',
+    credentialUrl: 'https://verify.skilljar.com/c/kq3yq937fmd3',
+  },
+]
+
+export default certifications
