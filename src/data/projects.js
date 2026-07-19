@@ -24,7 +24,7 @@ const projects = [
     title: 'Synapse-nn',
     subtitle: 'A Lightweight Neural Network Library Built from Scratch in Python, Accessible via pip',
     description: "Synapse-NN is a Python library that implements the core building blocks of neural networks from the ground up without relying on high-level deep learning frameworks. The project was created to better understand the fundamentals of machine learning by implementing concepts such as forward propagation, backpropagation, activation functions, loss functions, optimization, and model training. It provides a simple and educational API for building, training, and experimenting with neural networks while demonstrating the mathematics behind modern deep learning.",
-    image: '/projects_img/synapse-nn.netlify.app (1).png',
+    image: '/projects_img/synapse-nn.netlify.app.png',
     tags: ['Python', 'Neural Networks', 'Deep Learning'],
     liveUrl: 'https://synapse-nn.netlify.app/',
     githubUrl: 'https://github.com/yashdeep7733/Synapse-nn',
