@@ -151,8 +151,19 @@ body {
   background: #080808;
 
   background-image:
-    linear-gradient(rgba(255, 255, 255, 0.02) 1px, transparent 0.02px),
-    linear-gradient(90deg, rgba(255, 255, 255, 0.02) 1px, transparent 0.2px);
+    linear-gradient(rgba(255, 255, 255, 0.04) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.04) 1px, transparent 1px);
 
-  background-size: 50px 50px;
+  background-size: 60px 60px;
+
+  animation: moveGrid 5s linear infinite;
+}
+
+@keyframes moveGrid {
+  from {
+    background-position: 0 0, 0 0;
+  }
+  to {
+    background-position: 60px 60px, 60px 60px;
+  }
 }
