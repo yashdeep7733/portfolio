@@ -46,6 +46,15 @@ const certifications = [
   },
   {
     id: 'cert-6',
+    title: 'Accenture AI Foundations',
+    issuer: 'Accenture',
+    date: 'August 2026',
+    description: "Completed Accenture's AI Foundations certification, gaining a comprehensive understanding of AI concepts, applications, and implementation strategies across various industries.",
+    image: '/certs_img/accenturelogo.png',
+    credentialUrl: 'https://l2eportal-lms.cclearning.accenture.com/blocks/acnlearning/certificate/certificate.php?ids_courses=1542411&t=1&clang=en_GB',
+  },
+  {
+    id: 'cert-7',
     title: 'Claude code 101',
     issuer: 'Anthropic',
     date: 'July 2026',
