@@ -59,6 +59,16 @@ const projects = [
     liveUrl: '',
     githubUrl: 'https://github.com/yashdeep7733/Data-management-API',
   },
+  {
+    id: 'project-7',
+    title: 'NVIDIA Data Analysis and Visualization',
+    subtitle: 'Analyzing and Visualizing Large-Scale Data with NVIDIA Technologies',
+    description: 'A project focused on analyzing and visualizing large-scale data using NVIDIA technologies. The project involves leveraging GPU acceleration and parallel processing capabilities to handle complex data analysis tasks and create insightful visualizations.',
+    image: '/projects_img/nvidia_dashboard.png',
+    tags: ['Power BI', 'Data Analysis', 'MS EXCEL'],
+    liveUrl: '',
+    githubUrl: 'https://github.com/Dhruv-Yashdeep-Senpai/Power-BI-Nvidia-Sales-Analytics-Report',
+  },
 ]
 
 export default projects
