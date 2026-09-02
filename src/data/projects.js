@@ -67,7 +67,7 @@ const projects = [
     image: '/projects_img/nvidia_dashboard.png',
     tags: ['Power BI', 'Data Analysis', 'MS EXCEL'],
     liveUrl: '',
-    githubUrl: 'https://github.com/Dhruv-Yashdeep-Senpai/Power-BI-Nvidia-Sales-Analytics-Report',
+    githubUrl: 'https://github.com/yashdeep7733/Power-BI-Nvidia-Sales-Analytics-Report',
   },
 ]
 
