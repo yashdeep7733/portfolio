@@ -62,8 +62,8 @@ const projects = [
   {
     id: 'project-7',
     title: 'NVIDIA Data Analysis and Visualization',
-    subtitle: 'Analyzing and Visualizing Large-Scale Data with NVIDIA Technologies',
-    description: 'A project focused on analyzing and visualizing large-scale data using NVIDIA technologies. The project involves leveraging GPU acceleration and parallel processing capabilities to handle complex data analysis tasks and create insightful visualizations.',
+    subtitle: 'Analyzing and Visualizing Large-Scale Data',
+    description: 'A Power BI sales analytics project covering data cleaning in Excel, SQL analysis, DAX calculations, and interactive dashboard creation. Includes a PowerPoint presentation explaining the complete Excel, SQL, and Power BI workflow.',
     image: '/projects_img/nvidia_dashboard.png',
     tags: ['Power BI', 'Data Analysis', 'MS EXCEL'],
     liveUrl: '',
