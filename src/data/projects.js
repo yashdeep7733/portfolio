@@ -41,6 +41,16 @@ const projects = [
   },
   {
     id: 'project-5',
+    title: 'NVIDIA Data Analysis and Visualization',
+    subtitle: 'Analyzing and Visualizing Large-Scale Data',
+    description: 'A Power BI sales analytics project covering data cleaning in Excel, SQL analysis, DAX calculations, and interactive dashboard creation. Includes a PowerPoint presentation explaining the complete Excel, SQL, and Power BI workflow.',
+    image: '/projects_img/nvidia_dashboard.png',
+    tags: ['Power BI', 'Data Analysis', 'MS EXCEL'],
+    liveUrl: '',
+    githubUrl: 'https://github.com/yashdeep7733/Power-BI-Nvidia-Sales-Analytics-Report',
+  },
+  {
+    id: 'project-6',
     title: 'AtmosAI',
     subtitle: 'AI-Powered Atmospheric Analysis System for Understanding Environmental Data and Patterns',
     description: "AtmosAI is an AI-driven application designed to analyze atmospheric data and extract meaningful insights using machine learning techniques. The project focuses on applying data analysis and predictive modeling approaches to understand environmental patterns, process complex datasets, and present useful information through an intuitive interface. It combines machine learning, data processing, and visualization to explore how artificial intelligence can support better understanding and analysis of atmospheric conditions.",
@@ -50,7 +60,7 @@ const projects = [
     githubUrl: 'https://github.com/yashdeep7733/AtmosAI-Real-Time-AQI-Monitoring-Prediction-System',
   },
   {
-    id: 'project-6',
+    id: 'project-7',
     title: 'Data Management API',
     subtitle: 'A Backend API for Managing Structured Data with Django and Database Integration',
     description: 'A backend application built using Django for managing structured data through RESTful API endpoints and database operations. The project focuses on implementing server-side logic, data modeling, CRUD operations, and API communication while exploring backend development practices with Python and Django. It provided hands-on experience with database management, application architecture, and building reliable backend services that can support modern web applications.',
@@ -58,16 +68,6 @@ const projects = [
     tags: ['Django', 'REST API', 'Backend Development'],
     liveUrl: '',
     githubUrl: 'https://github.com/yashdeep7733/Data-management-API',
-  },
-  {
-    id: 'project-7',
-    title: 'NVIDIA Data Analysis and Visualization',
-    subtitle: 'Analyzing and Visualizing Large-Scale Data',
-    description: 'A Power BI sales analytics project covering data cleaning in Excel, SQL analysis, DAX calculations, and interactive dashboard creation. Includes a PowerPoint presentation explaining the complete Excel, SQL, and Power BI workflow.',
-    image: '/projects_img/nvidia_dashboard.png',
-    tags: ['Power BI', 'Data Analysis', 'MS EXCEL'],
-    liveUrl: '',
-    githubUrl: 'https://github.com/yashdeep7733/Power-BI-Nvidia-Sales-Analytics-Report',
   },
 ]
 
