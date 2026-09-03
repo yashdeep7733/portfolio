@@ -12,7 +12,7 @@ const projects = [
   {
     id: 'project-2',
     title: 'Search Ranking & Content Opportunity Analysis',
-    subtitle: 'Ongoing Work in Search Ranking, Data Analysis, and Machine Learning as ML intern at FlyRank AI',
+    subtitle: 'Search Ranking Optimization, Data Analysis, and Machine Learning as ML intern at FlyRank AI',
     description: "Developed an end-to-end machine learning workflow to prioritize webpages for potential content refresh using search and engagement signals.Used the FlyRank internship dataset and investigated data leakage to select safe historical features such as impressions, clicks, and average search position. Trained a Logistic Regression model using client-based validation with GroupShuffleSplit. Achieved 0.990 accuracy, 0.812 precision, 0.936 recall, and 0.870 F1-score on the held-out test set. Converted model predictions into priority scores to create a ranked webpage review queue. Focused on responsible ML by treating predictions as directional decision support requiring human review. Documented the methodology, results, limitations, and recommendations in a deployed research paper.",
     image: '/projects_img/flyrank_projects.png',
     tags: ['Machine Learning', 'Data Science', 'Search Ranking'],
