@@ -16,8 +16,8 @@ const projects = [
     description: "Currently work in progress as my internship capstone project.",
     image: '/projects_img/flyrank_projects.png',
     tags: ['Machine Learning', 'Data Science', 'Search Ranking'],
-    liveUrl: '',
-    githubUrl: '',
+    liveUrl: 'https://webpage-refresh.netlify.app/',
+    githubUrl: 'https://github.com/yashdeep7733/flyrank-ml-internship-starter',
   },
   {
     id: 'project-3',
